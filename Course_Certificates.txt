@@ -1,0 +1,9 @@
+Python for Automation:
+https://coursera.org/share/4fb7f9f08a3c546f3f823d19d7916395
+
+Selenium WebDriver with Python:
+https://coursera.org/share/bb9ac0a0cc536110481e784ca48d6dec
+
+Test Automation with Playwright (Python) & Robot Framework:
+https://coursera.org/share/00c1cdf99c6077427b51fe1cefef41c2
+
